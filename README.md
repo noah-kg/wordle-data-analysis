@@ -1,4 +1,7 @@
-![Wordle Image](https://wtop.com/wp-content/uploads/2022/02/wordle-photo.jpg)
+
+<div>
+    <img src="https://wtop.com/wp-content/uploads/2022/02/wordle-photo.jpg" height="600px">
+</div>
 
 # Wordle Data Analysis
 
