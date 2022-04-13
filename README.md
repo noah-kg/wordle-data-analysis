@@ -36,3 +36,5 @@ My take on a (hopefully) in-depth analysis of Wordle. In this project I hope to 
     - Any other objectives to add on to make this project more interesting
 
 This project was heavily inspired by [3Blue1Brown's](https://www.youtube.com/c/3blue1brown) excellent [YouTube](https://www.youtube.com/watch?v=v68zYyaEmEA&t=1529s) video on Wordle. I wanted to do my own analysis to 1) see if I could reach the same conclusions on my own and 2) see if I could find anything new or interesting about it.
+
+To view the notebook, click on the .ipynb file above, or view it [here](https://nbviewer.org/github/noah-kg/wordle-data-analysis/blob/main/Wordle%20Analysis.ipynb).
